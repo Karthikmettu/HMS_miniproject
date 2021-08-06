@@ -4,6 +4,9 @@ Hospital management software is a web-based system that works to manage differen
 
 Features:
 Maintain digital records
+
 Less time consuming
+
 Track and avoid mistakes
+
 Easy to understand
