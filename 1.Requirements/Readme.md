@@ -1,12 +1,12 @@
 ﻿# **Requirements**
 ## **Introduction**
-- As technology advances, everything is getting automated, HealthCare is not exception.
-- Life is everything, time is crucial, in emergency situations time plays a very important role, if we delay it can cost a person life. Hospitals should have good Management system.
-- A good hospital management system would facilitate the expansion of the hospital network by easily managing resources, avoiding waste, creating an efficient workforce, and better data management.
-- Such a system could provide hassle-free patient care and make everyone's job much easier.
-- Hospital management software is a web-based system that works to manage different aspects of a medical facility. 
-- Its objective is to dematerialize the different processes of the medical center. 
-- It integrates all important data about doctors, patients, staff, administrative details, etc. There is a growing demand for healthcare app developers and for all the right reasons.
+-   As technology advances, everything is getting automated, HealthCare is not exception.
+-  Life is everything, time is crucial, in emergency situations time plays a very important role, if we delay it can cost a person life. Hospitals should have good Management system.
+-   A good hospital management system would facilitate the expansion of the hospital network by easily managing resources, avoiding waste, creating an efficient workforce, and better data management.
+-   Such a system could provide hassle-free patient care and make everyone's job much easier.
+-   Hospital management software is a web-based system that works to manage different aspects of a medical facility. 
+-   Its objective is to dematerialize the different processes of the medical center. 
+-   It integrates all important data about doctors, patients, staff, administrative details, etc. There is a growing demand for healthcare app developers and for all the   right reasons.
 ## **Research**
 - In this speedy world of medicine, it is an intimidating task to manage a multi talented hospital.
 - A hospital management system is a computer or web based system that makes it easy to manage the work of the hospital or any medical set up.
