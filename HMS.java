@@ -2,11 +2,11 @@ import java.io.*;
 import java.util.*;
 import java.util.Calendar;
 /* Hospital Management System Project in Java with Source Code PDF Visit for more https://www.programmingwithbasics.com/ */
-class staff
+class Staff
 {
     String sid, sname, desg, sex;
     int salary;
-    void new_staff()
+    void newstaff()
     {
         Scanner input = new Scanner(System.in);
         System.out.print("id:-");
