@@ -1,7 +1,7 @@
 ﻿# **Requirements**
 ## **Introduction**
--  As technology advances, everything is getting automated, HealthCare is not exception.
--  Life is everything, time is crucial, in emergency situations time plays a very important role, if we delay it can cost a person life. Hospitals should have good Management system.
+-    As technology advances, everything is getting automated, HealthCare is not exception.
+-   Life is everything, time is crucial, in emergency situations time plays a very important role, if we delay it can cost a person life. Hospitals should have good Management system.
 -   A good hospital management system would facilitate the expansion of the hospital network by easily managing resources, avoiding waste, creating an efficient workforce, and better data management.
 -   Such a system could provide hassle-free patient care and make everyone's job much easier.
 -   Hospital management software is a web-based system that works to manage different aspects of a medical facility. 
