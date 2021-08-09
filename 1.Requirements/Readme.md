@@ -1,4 +1,5 @@
-﻿# **Requirements**
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/102828929048406cba1737604ddd651c)](https://www.codacy.com/gh/Karthikmettu/HMS_miniproject/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Karthikmettu/HMS_miniproject&amp;utm_campaign=Badge_Grade)
+# **Requirements**
 ## **Introduction**
 -    As technology advances, everything is getting automated, HealthCare is not exception.
 -   Life is everything, time is crucial, in emergency situations time plays a very important role, if we delay it can cost a person life. Hospitals should have good Management system.
