@@ -1,3 +1,5 @@
+![code inspector](https://www.code-inspector.com/project/26212/score/svg)![code inspector](https://www.code-inspector.com/project/26212/status/svg)
+
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/102828929048406cba1737604ddd651c)](https://www.codacy.com/gh/Karthikmettu/HMS_miniproject/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Karthikmettu/HMS_miniproject&amp;utm_campaign=Badge_Grade)
 # **Requirements**
 ## **Introduction**
