@@ -4,8 +4,7 @@
 **Integration test (High level test)**
 --------------------------------------
 
--   Main menu -listing all the available departments and services -
-    > Passing
+-   Main menu -listing all the available departments and services - Passing
 
 -   Patient care-passing
 
